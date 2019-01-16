@@ -59,16 +59,21 @@ please cut-and-paste the text from that email here._
   - The scores once posted on canvas will not be allowed to change unless someone hacks canvas. 
 
 ## Problem 3
-- Scenario: Your choice (give a brief explanation)
+- Scenario: Public library
 - Assumptions:
-  - explain_your_assumptions
+  - I am in charge of the security of a public library in Houston. There are regular books in the library as well as rare journals; records of Houston infrastructure, all Houston Chronicles since 1950s, eg. There are electric detectors in the entrance. The library utilizes an online system to keep the records of borrowing/returning books.
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - Books
+  - Journals
+  - Library hardwares —Desks and chairs as well as the computers.
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - People may want to “smuggle” books out of the library.
+  - A borrower may not want to return the book.
+  - Young children may scratch/break desks and chairs.
+  -  Terrorists may, at a small chance but still, target the library. 
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - At the entrance everyone should go through a security check where bags should be scanned under X-ray, so that any suspicious items are not allowed to be taken into the library.
+  - A small electronic chip should be attached onto every book and journal. If anyone is trying to take the books out without permission, the detector can tell.
+  - A few guards should always be patrolling in the library in case of anything fishy going on. 
+  - Every borrower should register in the library system with their personal information. When a borrowed book has passed its due date, the borrower should pay for the fines. In the worst case, the library may sue the borrower. 
 
